@@ -1,5 +1,10 @@
 # docker-cloud Build
 
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-info-blue.svg)](https://hub.docker.com/r/buluma/docker-android-sdk-master/)
+[![Docker Stars](https://img.shields.io/docker/stars/buluma/docker-android-sdk-master.svg)](https://hub.docker.com/r/thyrlian/docker-android-sdk-master/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-android-sdk-master.svg)](https://hub.docker.com/r/buluma/android-sdk/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuluma%2FAndroidSDK&count_bg=%233DDC84&title_bg=%230DB7ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/buluma/AndroidSDK) [![Build](https://github.com/buluma/docker-android-sdk-master/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-android-sdk-master/actions/workflows/build.yml)
+
 Use one of the following Tags: (see below)
 
 ubuntu-standalone
