@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM buluma/alpine:latest
 
 LABEL de.mindrunner.android-docker.flavour="alpine-standalone"
 
