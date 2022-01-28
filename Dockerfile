@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM buluma/ubuntu:20.04
 LABEL maintainer="Shadow Walker"
 
 ENV DEBIAN_FRONTEND noninteractive
